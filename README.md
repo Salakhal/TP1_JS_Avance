@@ -16,7 +16,7 @@ L’objectif de ce TP est d’automatiser le suivi de cette production en stocka
  
 Voici un exemple de l'exécution du programme (screenshot) :
 
-<img width="945" height="203" alt="image" src="https://github.com/user-attachments/assets/f7ca6b85-b01d-40cb-8269-6f5120fcc0d5" />
+<img width="669" height="377" alt="image" src="https://github.com/user-attachments/assets/87811158-0313-4c41-845f-35b53ccc92ce" />
 
 
 ## Activité 2 : Gestion des Machines et Employés (Architecture en Couches)
@@ -35,6 +35,6 @@ Voici un exemple de l'exécution du programme (screenshot) :
  
 Voici un exemple de l'exécution du programme (screenshot) :
 
-<img width="945" height="543" alt="image" src="https://github.com/user-attachments/assets/2bf8156e-227f-498e-932b-9bf0033437de" />
+<img width="637" height="208" alt="image" src="https://github.com/user-attachments/assets/de717685-46ee-4a56-9f44-a85ff7af0887" />
 
 
