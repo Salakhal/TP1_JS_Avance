@@ -12,6 +12,9 @@ Chaque développeur réalise quotidiennement un certain nombre de scripts.
 L’objectif de ce TP est d’automatiser le suivi de cette production en stockant les informations dans une base MySQL, puis en extrayant diverses statistiques grâce à un programme Java.
 
 ---
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
 
 <img width="945" height="203" alt="image" src="https://github.com/user-attachments/assets/f7ca6b85-b01d-40cb-8269-6f5120fcc0d5" />
 
@@ -28,8 +31,10 @@ L’objectif de ce TP est d’automatiser le suivi de cette production en stocka
 - Tester le tout via des programmes `main()` de démonstration
 
 ---
-![Uploading image.png…]()
+##  Exemple d’exécution (image)
+ 
+Voici un exemple de l'exécution du programme (screenshot) :
 
-
+<img width="945" height="543" alt="image" src="https://github.com/user-attachments/assets/2bf8156e-227f-498e-932b-9bf0033437de" />
 
 
